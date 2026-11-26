@@ -39,6 +39,33 @@ A comanda vira o identificador do cliente durante toda a visita, e cada etapa re
 | **5 · Cozinha** | Mostra o consumo previsto até o fechamento e sugere quanto repor de cada item. Registra a pesagem das cubas. |
 | **📊 Painel do gerente** | Indicadores, fluxo de clientes, espera na churrasqueira (antes × depois), carne por corte e margem, sobras no prato, buffet e simulação da fila com hipóteses ajustáveis. |
 
+## Telas
+
+### 1 · Totem de entrada
+O cliente recebe a comanda, escolhe a modalidade e marca as carnes que quer.
+
+![Totem de entrada](docs/telas/1-totem.jpg)
+
+### 2 · Churrasqueira
+Pedidos por ordem de chegada com cronômetro, coluna de prontos aguardando retirada e previsão de porções para os próximos 15 minutos.
+
+![Tela da churrasqueira](docs/telas/2-churrasqueira.jpg)
+
+### 3 · Balança
+A pesagem fica ligada à comanda e mostra o tempo da entrada até a balança e o valor.
+
+![Balança](docs/telas/3-balanca.jpg)
+
+### 4 · Garçom
+Ao recolher o prato, o garçom registra quanto sobrou e o quê.
+
+![Garçom: recolher prato](docs/telas/4-garcom.jpg)
+
+### 5 · Cozinha
+A tabela mostra quanto ainda vai ser consumido até o fechamento e quanto repor. Embaixo, o registro das pesagens de cuba.
+
+![Cozinha: reposição do buffet](docs/telas/5-cozinha.jpg)
+
 ## Resultados da simulação
 
 Dia simulado com 600 clientes, tema feijoada, calibrado para reproduzir os ~4 min de pico relatados:
@@ -97,6 +124,7 @@ Os registros ficam salvos no navegador (`localStorage`). O dia simulado é gerad
 ## Estrutura
 
 ```
-index.html   # aplicação completa (HTML + CSS + JavaScript, sem dependências)
+index.html     # aplicação completa (HTML + CSS + JavaScript, sem dependências)
 README.md
+docs/telas/    # capturas de tela usadas neste README
 ```
