@@ -66,6 +66,13 @@ A tabela mostra quanto ainda vai ser consumido até o fechamento e quanto repor.
 
 ![Cozinha: reposição do buffet](docs/telas/5-cozinha.jpg)
 
+### 📊 Painel do gerente
+Indicadores do dia, espera na churrasqueira (antes × depois), fluxo de clientes, carne por corte e margem, o que volta no prato, consumo e sobra do buffet, simulação da fila com hipóteses ajustáveis e registros ao vivo.
+
+![Painel do gerente](docs/telas/6-painel.jpg)
+
+> Nesta captura, os controles da simulação estão alterados (37 s de atendimento, −14 s, 86%). Por isso a espera aparece como 0:56 → 0:28. Com os valores padrão, calibrados para os ~4 min relatados, o painel mostra os números da seção abaixo.
+
 ## Resultados da simulação
 
 Dia simulado com 600 clientes, tema feijoada, calibrado para reproduzir os ~4 min de pico relatados:
