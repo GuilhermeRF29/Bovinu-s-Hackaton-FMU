@@ -2,6 +2,14 @@
 
 Solução proposta no hackathon da FMU para um restaurante por quilo com churrasqueira. O objetivo é **reduzir a fila no horário de pico**, **saber o que sai e o que sobra** e **repor o buffet na medida certa**, sem contratar mais funcionários.
 
+## 🔗 Links
+
+| | |
+|---|---|
+| 🌐 **Site (demonstração)** | https://comandainteligente.htmly.com.br |
+| 📊 **Apresentação** | https://apresentacao-comandainteligente.htmly.com.br/ |
+| 🎬 **Vídeo** | [Pasta no Google Drive](https://drive.google.com/drive/folders/1YXuxn5Z4tEhw9r3_qK435t4M5HHfC2sD?usp=sharing) |
+
 ## O problema
 
 - Restaurante por quilo (R$ 119/kg ou R$ 90 à vontade), 90 mesas, 8 garçons e cerca de 600 clientes por dia de segunda a sexta.
