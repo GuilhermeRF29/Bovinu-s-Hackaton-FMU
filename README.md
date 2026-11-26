@@ -6,7 +6,7 @@ Solução proposta no hackathon da FMU para um restaurante por quilo com churras
 
 * Daniel Barbosa Alves
 * Guilherme Rodrigues Felix
-*
+* Isa Tessarin
 
 ## O problema
 
