@@ -81,10 +81,15 @@ Dia simulado com 600 clientes, tema feijoada, calibrado para reproduzir os ~4 mi
 |---|---|---|
 | Tempo na churrasqueira no pico, só com o preparo em paralelo | 4:00 | **1:48** |
 | Idem, com o atendimento no balcão 6 s mais rápido | 4:00 | **0:37** |
-| Clientes atendidos em até 2:30 no pico | 47% | **100%** |
+| Clientes atendidos em até 2:30 no pico, só com o preparo em paralelo | 47% | **69%** |
+| Idem, com o atendimento no balcão 6 s mais rápido | 47% | **100%** |
 | Sobra de buffet no fechamento | ~14 kg | **~2 kg** |
 
 > ⚠️ Esses números vêm de um **modelo com hipóteses ajustáveis** (tempo de atendimento, % de clientes que pegam carne, tempo no totem, número de pessoas cortando). Os 0:37 dependem do ganho de 6 s por atendimento, que é uma suposição, não uma medição. Os custos por kg das carnes são valores de exemplo. Na operação real, o próprio sistema mede os números a partir dos horários registrados nas comandas.
+
+## Apresentação
+
+O arquivo `apresentacao.html` tem os 5 slides do pitch, com as imagens já embutidas. Abra no navegador e navegue com as setas ← → ou clicando nas laterais. A tecla `F` liga a tela cheia. Para gerar um PDF, use Imprimir → Salvar como PDF: sai uma página por slide.
 
 ## Como rodar
 
@@ -132,6 +137,7 @@ Os registros ficam salvos no navegador (`localStorage`). O dia simulado é gerad
 
 ```
 index.html     # aplicação completa (HTML + CSS + JavaScript, sem dependências)
+apresentacao.html  # slides da apresentação (5 slides, abre no navegador)
 README.md
 docs/telas/    # capturas de tela usadas neste README
 ```
