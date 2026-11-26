@@ -8,6 +8,10 @@ Solução proposta no hackathon da FMU para um restaurante por quilo com churras
 * Guilherme Rodrigues Felix
 * Isa Tessarin
 
+## Link da apresentação 
+
+https://drive.google.com/drive/folders/1YXuxn5Z4tEhw9r3_qK435t4M5HHfC2sD?usp=sharing
+
 ## O problema
 
 - Restaurante por quilo (R$ 119/kg ou R$ 90 à vontade), 90 mesas, 8 garçons e cerca de 600 clientes por dia de segunda a sexta.
