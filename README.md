@@ -3,7 +3,10 @@
 Solução proposta no hackathon da FMU para um restaurante por quilo com churrasqueira. O objetivo é **reduzir a fila no horário de pico**, **saber o que sai e o que sobra** e **repor o buffet na medida certa**, sem contratar mais funcionários.
 
 ## Integrantes
-Daniel Barbosa Alves
+
+* Daniel Barbosa Alves
+* Guilherme Rodrigues Felix
+*
 
 ## O problema
 
